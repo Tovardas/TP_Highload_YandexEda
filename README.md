@@ -166,7 +166,7 @@ L3 балансировщик распределяет трафик на осн�
 
 postgreSQL
 
-![image](https://github.com/user-attachments/assets/7fb6b667-c87c-4c08-946c-ccdf6804ba8d)
+![image](https://github.com/user-attachments/assets/2de1ff18-0653-4307-9de1-7e8004f9c474)
 
 MongoDB
 
@@ -174,7 +174,7 @@ MongoDB
 
 Redis
 
-![image](https://github.com/user-attachments/assets/4aa204bc-c8d6-4d98-90f2-53f5c3770337)
+![image](https://github.com/user-attachments/assets/5845b469-c1ae-4821-81c1-07805e6df1f3)
 
 Amazon S3
 
@@ -183,6 +183,14 @@ Amazon S3
 ClickHouse
 
 ![image](https://github.com/user-attachments/assets/fdee2992-c163-4f10-9cbf-915273dbd9e6)
+
+### Основные решения
+**Выбор СУБД:**
+postgreSQL - для основных сущностей
+MongoDB - для хранения сущностей с geo-данными
+Redis - для таблиц с временными данными и необходимостью быстрого доступа к информации
+Amazon S3 - для хранения фото 
+ClickHouse - для хранения статистики магазинов
 
 ### Источники
 
