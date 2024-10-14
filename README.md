@@ -158,7 +158,31 @@ L3 балансировщик распределяет трафик на осн�
 
 ## 5. Логическая схема БД
 
-![Логическая БД.png](Логическая%20БД.png)
+![Логическая БД.png](Логическая%20БД%20DZ5.png)
+
+## 6. Физическая схема БД
+
+![Логическая БД.png](Логическая%20БД%20DZ5.png)
+
+postgreSQL
+
+![image](https://github.com/user-attachments/assets/7fb6b667-c87c-4c08-946c-ccdf6804ba8d)
+
+MongoDB
+
+![image](https://github.com/user-attachments/assets/2bee9c38-865d-4a08-976e-06eb81bec489)
+
+Redis
+
+![image](https://github.com/user-attachments/assets/4aa204bc-c8d6-4d98-90f2-53f5c3770337)
+
+Amazon S3
+
+![image](https://github.com/user-attachments/assets/ec619d4d-113f-48c8-be61-b4c29ebdbd77)
+
+ClickHouse
+
+![image](https://github.com/user-attachments/assets/fdee2992-c163-4f10-9cbf-915273dbd9e6)
 
 ### Источники
 
