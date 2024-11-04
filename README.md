@@ -168,9 +168,12 @@ postgreSQL
 
 ![image](https://github.com/user-attachments/assets/2de1ff18-0653-4307-9de1-7e8004f9c474)
 
-MongoDB
+![image](https://github.com/user-attachments/assets/6efe9944-41aa-424b-a168-5708d630db3c)
 
-![image](https://github.com/user-attachments/assets/2bee9c38-865d-4a08-976e-06eb81bec489)
+
+Kafka
+
+![image](https://github.com/user-attachments/assets/1b1c1654-e062-4f0a-b4fd-4488d0a98c1b)
 
 Redis
 
@@ -187,11 +190,10 @@ ClickHouse
 ### Основные решения
 **Выбор СУБД:**
 * postgreSQL - для основных сущностей
-* MongoDB - для хранения сущностей с geo-данными
 * Redis - для таблиц с временными данными и необходимостью быстрого доступа к информации
 * Amazon S3 - для хранения фото 
 * ClickHouse - для хранения статистики магазинов
-
+* Kafka - для обработки асинхронных задач и обмена сообщениями между сервисами
 
 **Денормализация:**
 * хранение рейтинга  магазина, хотя его можно вычеслить на основе Reviews
