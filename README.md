@@ -187,6 +187,10 @@ ClickHouse
 
 ![image](https://github.com/user-attachments/assets/fdee2992-c163-4f10-9cbf-915273dbd9e6)
 
+EllasticSearch
+
+Таблицы _Products и _Stores
+
 ### Основные решения
 **Выбор СУБД:**
 * postgreSQL - для основных сущностей
