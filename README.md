@@ -166,10 +166,7 @@ L3 балансировщик распределяет трафик на осн�
 
 postgreSQL
 
-![image](https://github.com/user-attachments/assets/2de1ff18-0653-4307-9de1-7e8004f9c474)
-
-![image](https://github.com/user-attachments/assets/6efe9944-41aa-424b-a168-5708d630db3c)
-
+![image](https://github.com/user-attachments/assets/6a02d1dc-3a3a-4761-9fa1-01ad3edb9894)
 
 Kafka
 
